@@ -1,0 +1,9 @@
+I have an assignment to create a form page for both mobile and desktop mode. I am almost done with the desktop mode, 
+but I don't know how to put error messages on the input fields...just as illustrated in "active-states" picture in this file.
+
+
+Please, help me add the error messages
+
+I also need help making the mobile version of the form page.
+
+Thanks in advance.
